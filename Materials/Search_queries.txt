@@ -2,11 +2,11 @@
 # Web of Science
 ######################################
 
-TODO
+"teaching approach" OR "teaching approaches" OR knowledge management (All Fields) and "STEM" (All Fields) and inclusivity OR inclusion OR inclusive (All Fields)
 
 
 ######################################
 # Scopus
 ######################################
 
-
+( ALL ( "teaching approach" OR "teaching approaches" OR "knowledge management" ) AND ALL ( inclusivity OR inclusion OR inclusive ) AND ALL ( "STEM" ) )
