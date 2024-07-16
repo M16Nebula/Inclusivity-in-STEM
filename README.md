@@ -1,2 +1,2 @@
-# inclusivity-in-STEM
+# Inclusivity-in-STEM
 Supporting materials
