@@ -6,7 +6,7 @@ publish all files/Scopus data source file (csv)
 in journal publsh 2 images (network visualization of co-occurences + keywords)
   here publish all visualizations (for a particular cluster). Maybe publish cluster table as well. 
 
-| Item | Cluster 1 (red) 🟥 |
+| Item | Cluster 1 (red) 🟥, 20 items |
 |   ---: | --- |
 | `C1.1` | academy of management journal|
 | `C1.2` | academy of management review |
@@ -28,6 +28,23 @@ in journal publsh 2 images (network visualization of co-occurences + keywords)
 | `C1.18` |small business economics|
 | `C1.19` |sustainability|
 | `C1.20` |technological forecasting and social change|
-| **Item** | **Cluster 2 (green)** 🟩 |
-|   ---: | --- |
-| `C2.1` |sustainability|
+| **Item** | **Cluster 2 (green)** 🟩, **17 items** |
+| `C2.1` |american educational research journal| 
+| `C2.2` |educational psychologist|
+| `C2.3` |educational researcher|
+| `C2.4` |european journal of engineering education|
+| `C2.5` |international journal of science education|
+| `C2.6` |international journal of stem education|
+| `C2.7` |international journal of technology and design education|
+| `C2.8` |journal of educational psychology|
+| `C2.9` |journal of engineering education|
+| `C2.10` |journal of research in science teaching|
+| `C2.11` |journal of science education and technology|
+| `C2.12` |research in science education|
+| `C2.13` |review of educational research|
+| `C2.14` |science education|
+| `C2.15` |teachers college record|
+| `C2.16` |teaching and teacher education|
+| `C2.17` |theory into practice|
+
+
