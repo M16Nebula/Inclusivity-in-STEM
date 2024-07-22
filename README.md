@@ -58,6 +58,16 @@ in journal publsh 2 images (network visualization of co-occurences + keywords)
 | 🟦`C3.09`🟦 |international journal of educational technology in higher education|
 | 🟦`C3.10`🟦 |journal of computer assisted learning|
 | 🟦`C3.11`🟦 |thinking skills and creativity|
+| **Item** | **Cluster 4 (yellow)** 🟨, **7 items** |
+| 🟨`C4.01`🟨 |cbe-life sciences education|
+| 🟨`C4.02`🟨 |higher education|
+| 🟨`C4.03`🟨 |journal of chemical education|
+| 🟨`C4.04`🟨 |nature|
+| 🟨`C4.05`🟨 |plos one|
+| 🟨`C4.06`🟨 |science|
+| 🟨`C4.07`🟨 |studies in higher education|
+
+
 
 
 
