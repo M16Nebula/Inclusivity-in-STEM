@@ -46,5 +46,18 @@ in journal publsh 2 images (network visualization of co-occurences + keywords)
 | 🟩`C2.15`🟩 |teachers college record|
 | 🟩`C2.16`🟩 |teaching and teacher education|
 | 🟩`C2.17`🟩 |theory into practice|
+| **Item** | **Cluster 3 (blue)** 🟦, **11 items** |
+| 🟦`C3.01`🟦 |british journal of educational technology|
+| 🟦`C3.02`🟦 |computers & education|
+| 🟦`C3.03`🟦 |computers in human behavior|
+| 🟦`C3.04`🟦 |education and information technologies|
+| 🟦`C3.05`🟦 |education sciences|
+| 🟦`C3.06`🟦 |educational technology research and development|
+| 🟦`C3.07`🟦 |ieee access|
+| 🟦`C3.08`🟦 |interactive learning environments|
+| 🟦`C3.09`🟦 |international journal of educational technology in higher education|
+| 🟦`C3.10`🟦 |journal of computer assisted learning|
+| 🟦`C3.11`🟦 |thinking skills and creativity|
+
 
 
