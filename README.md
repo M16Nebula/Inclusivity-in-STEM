@@ -8,5 +8,7 @@ in journal publsh 2 images (network visualization of co-occurences + keywords)
 
 | Cluster1 | Item |
 |   ---: | --- |
-| `1` | List all *new or modified* files |
-| `2` | Show file differences that **haven't been** staged |
+| `1` | academy of management journal|
+| `2` | academy of management review |
+
+
