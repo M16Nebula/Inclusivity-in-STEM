@@ -28,3 +28,4 @@ in journal publsh 2 images (network visualization of co-occurences + keywords)
 | `C1.18` |small business economics|
 | `C1.19` |sustainability|
 | `C1.20` |technological forecasting and social change|
+| **Item** | **Cluster 1 (red)** 🟥 |
