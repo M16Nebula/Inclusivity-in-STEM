@@ -1,5 +1,11 @@
 ######################################
-# Scopus
+# \start Scopus search query
 ######################################
 
 ( ALL ( "teaching approach" OR "teaching approaches" OR "knowledge management" ) AND ALL ( inclusivity OR inclusion OR inclusive ) AND ALL ( "STEM" ) )
+
+######################################
+# \end Scopus search query
+######################################
+
+(1263 results on 16.07.2024)
