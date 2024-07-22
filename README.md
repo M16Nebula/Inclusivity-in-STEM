@@ -6,7 +6,7 @@ publish all files/Scopus data source file (csv)
 in journal publsh 2 images (network visualization of co-occurences + keywords)
   here publish all visualizations (for a particular cluster). Maybe publish cluster table as well. 
 
-| Command | Description |
+| Cluster1 | Item |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| `1` | List all *new or modified* files |
+| `2` | Show file differences that **haven't been** staged |
