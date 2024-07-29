@@ -6,8 +6,7 @@ Additional materials for: "STEM Education: Scientific Landscape of Inclusive Kno
 
 The repository consists of the following files/folders:
 
-### [Readme](README.md) file 
-Basic informations about the repository. 
+### [Readme](README.md) file  -> Basic informations about the repository. 
 
 ### [Scopus data](Scopus_data) file
 Here you can find the dataset we used in the analysis.
