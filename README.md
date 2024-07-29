@@ -1,8 +1,8 @@
 <h1 align="center">
-Additional materials for: "_STEM Education: Scientific Landscape of Inclusive Knowledge Management Process_"
+Additional materials for: "STEM Education: Scientific Landscape of Inclusive Knowledge Management Process"
 </h1> 
-  
-  Supporting materials. 
+
+### Supporting materials used in our study. Note that a more detailed description of the research methodology and approach is included in the research paper. This repository contains only the supporting materials (i.e., additioanl figures, dataset, etic.). 
 
 TODO: 
 
