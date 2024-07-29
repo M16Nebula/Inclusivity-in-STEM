@@ -12,6 +12,11 @@ Basic informations about the repository.
 ### [Scopus data](Scopus_data) file 📜
 Here you can find the dataset we used in the analysis.
 
+### [VOSviewer additional figures](VOSviewer_analysis) file 📜
+Here you can find the additional figures from VOSviewer (detailed insight into clustering).
+
+
+
 
 publish all files/Scopus data source file (csv)
 in journal publsh 2 images (network visualization of co-occurences + keywords)
