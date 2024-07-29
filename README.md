@@ -4,7 +4,13 @@ Additional materials for: "STEM Education: Scientific Landscape of Inclusive Kno
 
 ### Supporting materials used in our study. Note that a more detailed description of the research methodology and approach is included in the research paper. This repository contains only the supporting materials (i.e., additioanl figures, dataset, etic.). 
 
-TODO: 
+The repository consists of the following files/folders:
+
+### [Readme](README.md) file 📜
+Basic informations about the repository. 
+
+### [Scopus data](Scopus_data) file 📜
+Here you can find the dataset we used in the analysis.
 
 
 publish all files/Scopus data source file (csv)
