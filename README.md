@@ -6,21 +6,17 @@ Additional materials for: "STEM Education: Scientific Landscape of Inclusive Kno
 
 The repository consists of the following files/folders:
 
-### [Readme](README.md) file 📜
+### [Readme](README.md) file 
 Basic informations about the repository. 
 
-### [Scopus data](Scopus_data) file 📜
+### [Scopus data](Scopus_data) file
 Here you can find the dataset we used in the analysis.
 
-### [VOSviewer additional figures](VOSviewer_analysis) file 📜
+### [VOSviewer additional figures](VOSviewer_analysis) files
 Here you can find the additional figures from VOSviewer (detailed insight into clustering).
 
+In the table below you can see the result of clsutering for co-citation analysis. The clustering result (for co-occurrence analysis as well as co-citation analysis) can also be found in [Table_excel_results](Table_with_clusters.xlsx) 
 
-
-
-publish all files/Scopus data source file (csv)
-in journal publsh 2 images (network visualization of co-occurences + keywords)
-  here publish all visualizations (for a particular cluster). Maybe publish cluster table as well. 
 
 | Item | Cluster 1 (red) 🟥, 20 items |
 |   ---: | --- |
