@@ -1,5 +1,5 @@
 <h1 align="center">
-Inclusivity-in-STEM
+Additional materials for: "_STEM Education: Scientific Landscape of Inclusive Knowledge Management Process_"
 </h1> 
   
   Supporting materials. 
