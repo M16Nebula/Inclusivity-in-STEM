@@ -8,11 +8,9 @@ The repository consists of the following files/folders:
 
 ### [Readme](README.md) file  -> Basic informations about the repository. 
 
-### [Scopus data](Scopus_data) file
-Here you can find the dataset we used in the analysis.
+### [Scopus data](Scopus_data) file -> Here you can find the dataset we used in the analysis.
 
-### [VOSviewer additional figures](VOSviewer_analysis) files
-Here you can find the additional figures from VOSviewer (detailed insight into clustering).
+### [VOSviewer additional figures](VOSviewer_analysis) files -> Here you can find the additional figures from VOSviewer (detailed insight into clustering).
 
 In the table below you can see the result of clsutering for co-citation analysis. The clustering result (for co-occurrence analysis as well as co-citation analysis) can also be found in [Table_excel_results](Table_with_clusters.xlsx) 
 
